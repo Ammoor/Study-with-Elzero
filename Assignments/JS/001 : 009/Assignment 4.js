@@ -10,7 +10,7 @@ console.group("Grand Child Group");
 console.log("Message One");
 console.log("Message Two");
 console.groupEnd(); // Ends "Grand Child Group" group.
-console.groupEnd(); // Ends "Grand Child Group" group.
+console.groupEnd(); // Ends "Child Group" group.
 console.groupEnd(); // Ends "Group 1" group.
 console.group("Group 2");
 console.log("Message One");

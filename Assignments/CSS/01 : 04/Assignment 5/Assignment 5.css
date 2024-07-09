@@ -1,0 +1,39 @@
+/* Assignment 5: */
+
+/* Valid */
+._user-name {
+}
+
+/* Valid */
+.-user-name {
+}
+
+/* Not Valid */
+.1user-name {
+}
+
+/* Not Valid */
+.@user-name {
+}
+
+/* Not Valid */
+.user@name {
+}
+
+/* Valid */
+._user10name {
+}
+
+/* Valid */
+.u {
+}
+
+/* 
+
+Important Notes:
+
+1- In CSS Identifiers You Can't Use Special Symbols In Any Part Of It (Includes Spaces).
+2- The Only Special Symbols You Can Use In The Identifiers Are ('-' & '_') And You Can Begin The Identifiers With Them.
+3- You Can Only Use Numbers In The Middle And End Of The Identifiers, But You Can't Use Them In The Begging Of It.
+
+*/

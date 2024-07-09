@@ -1,0 +1,32 @@
+/* Assignment 6: */
+
+/* Bad */
+.USERNAME {
+}
+
+/* Bad */
+.UserName {
+}
+
+/* Good */
+.user-name {
+}
+
+/* Bad */
+.userName {
+}
+
+/* Bad */
+.usernameprofile {
+}
+
+/* 
+
+Important Note:
+
+When We Say That This Way In Writing The Selectors In CSS Is Bad We Mean That This Way Is Not Known And Not
+Recommended When You Write A CSS File But, If You Write In Not Recommended Way The CSS Code Will Run With Out
+Any Problems Unless You Break The Langue Rules But, It Will Be Hard To Read And Understand The Code For You And 
+For Others Who Will Read Your Code.  
+
+*/

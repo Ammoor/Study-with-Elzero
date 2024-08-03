@@ -3,7 +3,7 @@
 
 echo "YES<br/>";
 // ## First Comment
-echo "NO<br/>";
+echo "YES<br/>";
 # // # Second Comment
 echo "YES<br/>";
 /* /* /* Third Comment */

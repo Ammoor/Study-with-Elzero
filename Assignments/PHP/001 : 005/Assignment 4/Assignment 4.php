@@ -1,5 +1,5 @@
 <?php
-// Assignment 4 :
+// Assignment 4:
 
 echo "YES<br/>";
 // ## First Comment

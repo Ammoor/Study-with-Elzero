@@ -13,7 +13,7 @@
 <body>
     <?php
     /* 
-        Assignment 1 :
+        Assignment 1:
     */
     ?>
     <div>
